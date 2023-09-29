@@ -1,0 +1,1 @@
+autonomous vehicles rely heavily on ai for navigation and decision-making self-driving cars use sensors and ai algorithms to safely navigate roads

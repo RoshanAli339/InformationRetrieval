@@ -1,0 +1,1 @@
+reinforcement learning is used in gaming and autonomous systems it enables machines to learn through trial and error
