@@ -1,0 +1,1 @@
+the main purpose of this investigation is to examine the dependence of heat transfer in planetary atmospheres on the total enthalpy up to flight velocities of 50000 ftsec where a large proportion of the atoms  are ionized  the total thermodynamic and transport property concept discussed by hirshfelder jchemphys262feb1957 is used 
