@@ -1,0 +1,1 @@
+The design and analysis of algorithms is a fundamental area of computer science that deals with the creation and study of efficient algorithms for solving computational problems. Algorithms are the building blocks of software, and the quality of an algorithm can have a significant impact on the performance of a computer program.
